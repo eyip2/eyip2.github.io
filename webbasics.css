@@ -1,0 +1,185 @@
+#heading {
+    text-align:center;
+    background-color: lightgoldenrodyellow;
+    border: dotted 7px;
+    border-color: aqua;
+    color:black;
+    margin-bottom: 10px;
+    
+}
+
+
+.navbar {
+  overflow: hidden;
+  background-color: black;
+}
+
+.navbar a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-size: 17px;
+  text-decoration: none;
+    font-weight: 900;
+}
+
+h2 {
+    font-weight: 900;
+}
+
+#image {
+    align-content: center;
+    border-radius: 50%;
+    width:17%;
+    height:10%;
+    margin-left: 120px;
+    margin-top: 50px;
+    
+}
+
+#intro {
+    margin-left: 500px;
+    margin-top: -350px;
+}
+
+#blurb {
+    margin-left: 500px;
+}
+
+#classes {
+    margin-left: 500px;
+    margin-top: 60px;
+}
+
+#linkedin {
+    margin-left: 500px;
+    margin-top: 40px;
+    
+}
+
+.footer {
+    position: fixed;
+    left: 5px;
+    bottom: 5px;
+    width: 99.28%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+#aboutme {
+    color:aliceblue;
+    text-align:center;
+    background-color: rgba(255, 0, 0, 0.8);
+    padding: 10px;
+    border: dotted 7px;
+    border-color: aqua;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
+}
+
+
+
+.parent {
+    vertical-align: top;
+
+}
+#redborder1 {
+    font-weight: 900;
+    float:left;
+    color:black;
+    margin-top: 20px;
+    padding:10px;
+    width:35%;
+    height: 40%;
+    border: solid 6px;
+    border-color:rgba(255, 0, 0, 0.8);
+    
+}
+
+#redborder2{
+    font-weight: 900;
+    float: left;
+    color:black;
+    margin-top: 20px;
+    margin-left: 17px;
+    padding:10px;
+    width:59%;
+    height: 20%;
+    border: solid 6px;
+    border-color:rgba(255, 0, 0, 0.8);
+}
+
+
+#directory2 {
+    float: left;
+    margin-top: -40px;
+    
+    
+}
+
+.fam{
+    width:20%;
+    height:10%;
+    margin-left:5px;
+    border-radius: 10px;
+}
+
+#redborder3{
+    font-weight: 900;
+    float: left;
+    color:black;
+    margin-top: -360px;
+    padding:10px;
+    width:35%;
+    height: 40%;
+    border: solid 6px;
+    border-color:rgba(255, 0, 0, 0.8);
+    vertical-align: middle;
+}
+
+table, th, td {
+    padding:10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#listsheading{
+    color:azure;
+    text-align:center;
+    background-color: darkorange;
+    padding: 10px;
+    border: dotted 7px;
+    border-color: purple;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.parent2 {
+    vertical-align: top;
+}
+    
+#travellist {
+    float: left;
+    border:solid 3px;
+    padding: 8px;
+    width:28%;
+    margin-top: 8px;
+}
+
+#photos{
+    float: left;
+    border:solid 3px;
+    padding: 10px;
+    width:67%;
+    height:10%;
+    font-weight: 900;
+    margin-top: 8px;
+    margin-left: 17px;
+    border-color:black;
+}
+h4{ 
+font-weight: 900;
+}
