@@ -5,6 +5,7 @@
     border-color: aqua;
     color:black;
     margin-bottom: 10px;
+    border-radius: 10px;
     
 }
 
@@ -49,6 +50,7 @@ h3 {
 
 #blurb {
     margin-left: 500px;
+    margin-right: 290px;
 }
 
 #classes {
@@ -191,4 +193,25 @@ table, th, td {
 }
 h4{ 
 font-weight: 900;
+}
+
+#restaurants {
+    text-align:center;
+    background-color: #915F6D;
+    border: dotted 7px;
+    border-color: aqua;
+    color:white;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#foodblurb {
+    text-align: center;
+}
+
+#restauranttable{
+    align-content: center;
+    margin: 0px auto;
+    
 }
